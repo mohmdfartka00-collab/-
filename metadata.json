@@ -1,0 +1,6 @@
+{
+  "name": "تطبيقاتى",
+  "description": "منصة احترافية لإدارة ورفع الملفات والتطبيقات والوسائط باستخدام Cloudflare R2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
